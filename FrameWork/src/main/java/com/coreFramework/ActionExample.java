@@ -70,7 +70,6 @@ public class ActionExample {
 		driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
 		
 
-
 		
 		driver.get("https://www.amazon.com");
 		driver.manage().window().maximize();
